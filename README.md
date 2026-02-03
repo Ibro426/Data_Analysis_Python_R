@@ -73,7 +73,7 @@ More detailed regression analysis in R & Stargazer
 
 ggplot2
 
-Readme: Im excited to take this class
+Readme: Im excited to take this class 
 
 
 
